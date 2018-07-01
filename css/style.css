@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box; }
+
+body {
+  font-family: "Spirax", cursive;
+  padding: 0;
+  margin: 0;
+  background: #000; }
+
+.clock {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #fbc531;
+  border: 1px solid #fff;
+  padding: 20px;
+  font-size: 80px; }
+
+/*# sourceMappingURL=style.css.map */
